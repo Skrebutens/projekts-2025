@@ -1,0 +1,27 @@
+Tēma: Eiropas valūtas kalkulātors
+Konvertācija no citas valūtas uz eiro un no eiro uz citu valūtu.
+
+Problēmas apraksts, kāpēc tā ir aktuāla:
+Mūsdienās cilvēki bieži ceļo, iepērkas ārvalstīs vai veic starptautiskus darījumus. Lai saprastu, cik daudz kādas valūtas mēs saņemam, vajag ātri un precīzi pārrēķināt valūtas kursus. Ja to darām manuāli, tas var būt lēni un viegli kļūdīties. Valūtas kalkulators palīdz šo problēmu atrisināt.
+
+Mērķauditorija:
+Valūtas kalkulatoru izmantos:
+Ceļotāji, kas vēlas zināt, cik naudas viņi saņems vietējā valūtā.
+Interneta pircēji, kuri iegādājas preces no citām valstīm.
+Studenti vai grāmatveži, kam bieži jāveic valūtas maiņa.
+
+Eksistējošo risinājumu analīze:
+1. XE Currency Converter
+Plusi: Daudz valūtu un reāllaika kursi.
+Mīnusi: Ir pieejams arī maksas versijā ar vairākām funkcijām.
+
+2. Google Currency Converter
+Plusi: Ātra piekļuve, viegli lietot.
+Mīnusi: Nevar redzēt kursu vēsturi vai veikt detalizētus aprēķinus.
+
+3. Mobilās bankas lietotnes (piemēram, Revolut)
+Plusi: Var izmantot tieši ar savu kontu.
+Mīnusi: Pieejams tikai konkrētiem lietotājiem.
+
+
+
