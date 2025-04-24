@@ -25,3 +25,30 @@ Mīnusi: Pieejams tikai konkrētiem lietotājiem.
 
 
 
+Projektēšanas specifikācija: Eiropas valūtu kalkulators
+Mērķis:
+Izveidot tiešsaistes valūtu kalkulatoru, kas pārvērš summas starp Eiropas Savienības valūtām.
+
+Funkcionālās prasības:
+Valūtu maiņas kalkulācija: Ievadi summu un iegūsti pārvērsto summu.
+Maiņas kursu atjaunināšana: Automātiska maiņas kursu atjaunošana.
+Valūtu izvēle: Izvēlies abas valūtas (piemēram, EUR uz GBP).
+Kļūdu apstrāde: Paziņojumi par nederīgiem datiem.
+Vēstue: Saglabājās vēstuere lietotnē
+
+Nefunkcionālās prasības:
+Drošība: Lietotāja dati tiek aizsargāti un šifrēti.
+Ātrums: Ātra darbība.
+Pieejamība: Pieejams 24/7.
+Platformu atbalsts: Darbojas tīmeklī un mobilajās ierīcēs.
+Skalējamība: Spēja apstrādāt lielu pieprasījumu.
+
+Plānošana - Darba uzdevumu saraksts:
+Izpēte un analīze: Izvēlēties valūtas kursu.
+Dizains: Izveidot lietotāja interfeisa maketus.
+Funkcionalitāte: Izstrādāt kalkulācijas funkciju.
+Testēšana: Testēt dažādās ierīcēs un pārlūkprogrammās.
+Palaišana: Nodrošināt uzraudzību pēc palaišanas.
+
+
+
