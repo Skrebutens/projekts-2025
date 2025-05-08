@@ -30,25 +30,22 @@ Mērķis:
 Izveidot tiešsaistes valūtu kalkulatoru, kas pārvērš summas starp Eiropas Savienības valūtām.
 
 Funkcionālās prasības:
-Valūtu maiņas kalkulācija: Ievadi summu un iegūsti pārvērsto summu.
-Maiņas kursu atjaunināšana: Automātiska maiņas kursu atjaunošana.
-Valūtu izvēle: Izvēlies abas valūtas (piemēram, EUR uz GBP).
-Kļūdu apstrāde: Paziņojumi par nederīgiem datiem.
-Vēstue: Saglabājās vēstuere lietotnē
+Programma veic konverciju pamatojoties uz valutas kursu
+Var izvēlēties uz kuru valūtu konvertēt
+Programma parbauda ievades pareizibu 
+Programma attēlo rezultātu ar valūtas nosaukumu un summu terminālā
 
 Nefunkcionālās prasības:
-Drošība: Lietotāja dati tiek aizsargāti un šifrēti.
-Ātrums: Ātra darbība.
-Pieejamība: Pieejams 24/7.
-Platformu atbalsts: Darbojas tīmeklī un mobilajās ierīcēs.
-Skalējamība: Spēja apstrādāt lielu pieprasījumu.
+Neviens cits nevar redzēt lietotāja datus.
+Darbojas atrāk par sekundi.
+Pieejams 24/7.
+Nav jāmaksā par ierīces lietošanu.
 
 Plānošana - Darba uzdevumu saraksts:
-Izpēte un analīze: Izvēlēties valūtas kursu.
-Dizains: Izveidot lietotāja interfeisa maketus.
-Funkcionalitāte: Izstrādāt kalkulācijas funkciju.
-Testēšana: Testēt dažādās ierīcēs un pārlūkprogrammās.
-Palaišana: Nodrošināt uzraudzību pēc palaišanas.
+Atrast Eiropas valūtas uz kurām uz kurām konvertēs un otrādāk 
+Atrast to valūtu kursus.
+Programnmēt kodu pythona
+Izdod korektas konvercijas 
 
 
 
