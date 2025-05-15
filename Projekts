@@ -20,41 +20,29 @@ Mīnusi: Ir pieejams arī maksas versijā ar vairākām funkcijām.
 Plusi: Ātra piekļuve, viegli lietot.
 Mīnusi: Nevar redzēt kursu vēsturi vai veikt detalizētus aprēķinus.
 
-3. Mobilās bankas lietotnes (piemēram, Revolut)
-Plusi: Var izmantot tieši ar savu kontu.
-Mīnusi: Pieejams tikai konkrētiem lietotājiem.
+3. Currency Converter Plus 
+Plusi: Vienkāršs un ērts dizains.
+Mīnusi: Daudz reklāmas, ja lieto bezmaksas versiju 
 
-
-
-Projektēšanas specifikācija: Eiropas valūtu kalkulators
-Mērķis:
-Izveidot tiešsaistes valūtu kalkulatoru, kas pārvērš summas starp Eiropas Savienības valūtām.
 
 Funkcionālās prasības:
-Programma veic konverciju pamatojoties uz valutas kursu
-Var izvēlēties uz kuru valūtu konvertēt
-Programma parbauda ievades pareizibu 
+Programma veic konverciju pamatojoties uz valūtas kursu
+Konvertē uzreiz 3 vai vairāk dažādas valūtas vienlaicīgi
 Programma attēlo rezultātu ar valūtas nosaukumu un summu terminālā
+Tiek izmantota "tabulate" bibliotēka, lai formatētu un parādītu valūtu kursu tabulas.
+Konverciju vēsture saglabājās un ir viegli apskatāma
 
 Nefunkcionālās prasības:
-Neviens cits nevar redzēt lietotāja datus.
-Darbojas atrāk par sekundi.
-Pieejams 24/7.
-Nav jāmaksā par ierīces lietošanu.
+Neviens cits nevar redzēt lietotāja datus
+Darbojas ātrāk par sekundi
+Pieejams 24/7
+Nav jāmaksā par ierīces lietošanu
+Nav reklāmu.
 
-Plānošana - Darba uzdevumu saraksts:
-Atrast Eiropas valūtas uz kurām uz kurām konvertēs un otrādāk 
-Atrast to valūtu kursus.
-Programnmēt kodu pythona
-Izdod korektas konvercijas 
-
-konkurenti 
-merkauditorija
-specifikacija(ka strada)
-funkc. un ne fumkc
-plans
-izveide
-kas sanaca
-uzlabojumi
-
-
+Plānošana
+Jāatrod bibliotēka, kura izdos konvertētos datus tabulā
+Atrast Eiropas valūtas uz kurām konvertēs un otrādāk 
+Atrast to valūtu kursus
+Uztaisīt kodu visuals studio
+Uztaisīt prezentāciju
+Prezentēt
