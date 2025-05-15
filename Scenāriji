@@ -1,0 +1,13 @@
+Veiksmes scenāriji:
+1.Lietotājs ievada summu EUR un izvēlas opciju "1", un programma pareizi konvertē šo summu uz citām valūtām.
+2.Lietotājs ievada summu svešvalūtā un izvēlas opciju "2", un programma pareizi konvertē šo summu uz EUR.
+
+Lietošanas scenāriji:
+1.Lietotājs ievada derīgu summu EUR un izvēlas opciju "1", un programma pareizi aprēķina konversiju uz citām valūtām.
+2.Lietotājs ievada nederīgu opciju (piemēram, "3"), un programma izvada kļūdas ziņojumu un beidz darbību.
+3.Lietotājs ievada negatīvu summu, un programma izvada kļūdas ziņojumu vai ignorē ievadi.
+4.Lietotājs ievada summu valūtā, kas nav iekļauta sarakstā, un programma ignorē šo ievadi.
+
+Robežscenāriji:
+1.Lietotājs ievada summu 0 EUR, un programma izvada visās valūtās 0 rezultātu.
+2.Lietotājs ievada ļoti lielu summu (piemēram, 1 000 000 EUR), un programma pareizi aprēķina konversiju uz citām valūtām.
