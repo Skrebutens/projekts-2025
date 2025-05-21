@@ -1,0 +1,13 @@
+from valutas_konvertacija import no_eur_uz_citu, no_citas_uz_eur
+
+def test_no_eur_uz_gbp():
+    assert no_eur_uz_citu(100, 0.86) == 86.00
+
+def test_no_chf_uz_eur():
+    assert no_citas_uz_eur(92, 0.92) == 100.00
+
+def test_no_eur_uz_nok():
+    assert no_eur_uz_citu(50, 11.5) == 575.00
+
+def test_no_pln_uz_eur():
+    assert no_citas_uz_eur(45.5, 4.55) == 10.00
